@@ -49,6 +49,14 @@ The most comprehensive resource for understanding every detail of 401(k) retirem
 ### Part 6: Special Topics
 - [Cybersecurity for 401(k) Plans](docs/401k-cybersecurity.md) - Protecting plan assets and data
 
+### Part 7: Professional Templates (NEW)
+- [Engagement Letter - Limited Scope](templates/engagement-letter-limited-scope.md) - Complete engagement letter template
+- [Management Representation Letter](templates/management-representation-letter.md) - 56 comprehensive representations
+- [Governance Communication Letter](templates/governance-communication-letter.md) - Required audit communications
+- [Certification Request Letter](templates/certification-request-letter.md) - Request and follow-up letters
+- [Audit Finding Summary](templates/audit-finding-summary.md) - Finding documentation and tracking
+- [Predecessor Auditor Communication](templates/predecessor-auditor-communication.md) - Auditor transition letters
+
 ---
 
 ## Quick Reference
@@ -147,9 +155,10 @@ You'll find detailed, actionable information organized for easy reference.
 | Plan Fundamentals | 8 guides | 3,000+ |
 | Plan Administration | 6 guides | 2,500+ |
 | Audit Procedures | 9 guides | 4,000+ |
-| Limited Scope Resources | 5 templates | 3,500+ |
+| Limited Scope Resources | 5 guides | 3,500+ |
 | Regulatory & Compliance | 4 guides | 2,000+ |
-| **Total** | **32+ documents** | **15,000+ lines** |
+| Professional Templates | 6 templates | 2,500+ |
+| **Total** | **38+ documents** | **17,500+ lines** |
 
 ---
 
