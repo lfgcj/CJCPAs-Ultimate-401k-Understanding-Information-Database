@@ -624,7 +624,8 @@ New plans (post-2024) must:
 
 Effective 2026 (delayed):
 - Catch-up contributions must be Roth
-- For participants earning >$145,000
+- For participants earning >$145,000 (prior year FICA wages)
+- Note: This is a separate threshold from HCE determination ($155,000)
 - Pre-tax still available for others
 
 #### Student Loan Matching

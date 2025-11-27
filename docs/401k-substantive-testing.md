@@ -484,6 +484,12 @@ Amortization:
 - Level amortization: Yes ✓
 
 Exception Identified: Loan exceeded $50,000 reduced limit
+
+Resolution Required:
+- Excess amount ($5,000) may be treated as deemed distribution
+- Plan sponsor should consult EPCRS for correction options
+- Document correction in audit workpapers
+- Monitor for similar issues in loan processing controls
 ```
 
 ### Deemed Distribution Testing
