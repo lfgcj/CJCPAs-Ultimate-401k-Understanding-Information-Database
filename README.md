@@ -164,27 +164,18 @@ You'll find detailed, actionable information organized for easy reference.
 
 ### What's Included
 
-| Category | Documents | Lines of Documentation |
-|----------|-----------|----------------------|
-| Plan Fundamentals | 8 guides | 3,000+ |
-| Plan Administration | 6 guides | 2,500+ |
-| Audit Procedures | 9 guides | 4,000+ |
-| Limited Scope Resources | 5 guides | 3,500+ |
-| Regulatory & Compliance | 4 guides | 2,000+ |
-| Professional Templates | 6 templates | 2,500+ |
-| **Total** | **38+ documents** | **17,500+ lines** |
-| Category | Documents | Description |
-|----------|-----------|-------------|
-| Plan Fundamentals | 8 guides | Complete 401(k) concepts and rules |
-| Plan Administration | 6 guides | Fiduciary, compliance, service providers |
-| Audit Procedures | 9 guides | Planning through reporting |
-| Limited Scope Resources | 7 templates | Programs, checklists, templates |
-| Full Scope Resources | 1 program | Complete full scope audit program |
-| Audit Tools & Templates | 4 templates | Calculations, letters, fraud assessment |
-| Specialized Audits | 1 guide | MEP/PEP audit procedures |
-| Regulatory & Compliance | 4 guides | DOL, IRS, Form 5500, SECURE 2.0 |
-| Special Topics | 1 guide | Cybersecurity |
-| **Total** | **41+ documents** | **Comprehensive coverage** |
+| Category | Documents | Description | Lines of Documentation |
+|----------|-----------|----------------------||-------------|
+| Plan Fundamentals | 8 guides | Complete 401(k) concepts and rules | 3,000+ |
+| Plan Administration | 6 guides | Fiduciary, compliance, service providers | 2,500+ |
+| Audit Procedures | 9 guides | Planning through reporting |4,000+ |
+| Limited Scope Resources | 7 templates | Programs, checklists, templates |3,500+ |
+| Full Scope Resources | 1 program | Complete full scope audit program |2,000+ |
+| Audit Tools & Templates | 4 templates | Calculations, letters, fraud assessment | 2,500+ |
+| Specialized Audits | 1 guide | MEP/PEP audit procedures | |
+| Regulatory & Compliance | 4 guides | DOL, IRS, Form 5500, SECURE 2.0 |  |
+| Special Topics | 1 guide | Cybersecurity | |
+| **Total** | **41+ documents** | **Comprehensive coverage** | |
 
 ### New in This Version
 
