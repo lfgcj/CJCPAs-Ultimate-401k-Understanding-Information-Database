@@ -54,6 +54,12 @@ The most comprehensive resource for understanding every detail of 401(k) retirem
 ### Part 4D: Specialized Plan Audits
 - [MEP and PEP Audits](docs/401k-mep-pep-audits.md) - Multiple Employer Plans and Pooled Employer Plans audit guide
 
+### Part 4E: Reference Materials
+- [Glossary](docs/401k-glossary.md) - Comprehensive A-Z glossary of 401(k) and audit terms
+- [Flowcharts & Decision Trees](docs/401k-flowcharts-decision-trees.md) - Visual guides for audit decisions
+- [Case Studies](docs/401k-case-studies.md) - Real-world scenarios with solutions
+- [Quality Control Checklists](docs/401k-quality-control.md) - Engagement and review checklists
+
 ### Part 5: Regulatory & Compliance
 - [Form 5500 Filing](docs/401k-form-5500.md) - Annual reporting requirements
 - [Prohibited Transactions](docs/401k-prohibited-transactions.md) - What's not allowed
@@ -164,27 +170,35 @@ You'll find detailed, actionable information organized for easy reference.
 
 ### What's Included
 
-| Category | Documents | Description | Lines of Documentation |
-|----------|-----------|-------------|------------------------|
-| Plan Fundamentals | 8 guides | Complete 401(k) concepts and rules | 3,000+ |
-| Plan Administration | 6 guides | Fiduciary, compliance, service providers | 2,500+ |
-| Audit Procedures | 9 guides | Planning through reporting | 4,000+ |
-| Limited Scope Resources | 7 templates | Programs, checklists, templates | 3,500+ |
-| Full Scope Resources | 1 program | Complete full scope audit program | 2,000+ |
-| Audit Tools & Templates | 4 templates | Calculations, letters, fraud assessment | 2,500+ |
-| Specialized Audits | 1 guide | MEP/PEP audit procedures | 800+ |
-| Regulatory & Compliance | 4 guides | DOL, IRS, Form 5500, SECURE 2.0 | 2,100+ |
-| Special Topics | 1 guide | Cybersecurity | 300+ |
-| **Total** | **41+ documents** | **Comprehensive coverage** | **20,700+** |
+| Category | Documents | Description |
+|----------|-----------|-------------|
+| Plan Fundamentals | 8 guides | Complete 401(k) concepts and rules |
+| Plan Administration | 6 guides | Fiduciary, compliance, service providers |
+| Audit Procedures | 9 guides | Planning through reporting |
+| Limited Scope Resources | 7 templates | Programs, checklists, templates |
+| Full Scope Resources | 1 program | Complete full scope audit program |
+| Audit Tools & Templates | 4 templates | Calculations, letters, fraud assessment |
+| Specialized Audits | 1 guide | MEP/PEP audit procedures |
+| Reference Materials | 4 guides | Glossary, flowcharts, case studies, QC |
+| Regulatory & Compliance | 4 guides | DOL, IRS, Form 5500, SECURE 2.0 |
+| Special Topics | 1 guide | Cybersecurity |
+| **Total** | **45+ documents** | **THE ULTIMATE RESOURCE** |
 
 ### New in This Version
 
-- **Full Scope Audit Program** - Complete procedures for full scope engagements
-- **Calculation Templates** - Materiality, sampling, ADP/ACP worksheets
-- **Engagement Letters** - Ready-to-use letter templates
-- **Management Representation Letters** - Complete rep letter templates
-- **Fraud Risk Assessment** - Comprehensive fraud evaluation framework
-- **MEP/PEP Guide** - Multiple and Pooled Employer Plan audit guidance
+**Phase 1 - Core Audit Resources:**
+- Full Scope Audit Program - Complete investment testing procedures
+- Calculation Templates - Materiality, sampling, ADP/ACP worksheets
+- Engagement Letters - Ready-to-use letter templates
+- Management Representation Letters - Complete rep letter templates
+- Fraud Risk Assessment - AU-C 240 compliant framework
+- MEP/PEP Guide - Multiple and Pooled Employer Plan audit guidance
+
+**Phase 2 - Reference & Learning:**
+- Comprehensive Glossary - 150+ terms from A to Z
+- Flowcharts & Decision Trees - 15 visual decision guides
+- Case Studies - 12 real-world scenarios with solutions
+- Quality Control Checklists - Complete review procedures
 
 ---
 
