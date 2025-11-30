@@ -184,7 +184,7 @@ You'll find detailed, actionable information organized for easy reference.
 
 This is a living document. Contributions are welcome to help maintain accuracy and expand coverage of 401(k) topics.
 
-⚠️ Important Disclaimer
+## ⚠️ Important Disclaimer
 THIS GUIDE IS FOR INFORMATIONAL AND EDUCATIONAL PURPOSES ONLY.
 
 The information contained in this guide, including all tutorials, templates, examples, charts of accounts, checklists, and reference materials, is provided "as is" without warranty of any kind, express or implied. This guide does not constitute professional accounting, tax, legal, or financial advice.
