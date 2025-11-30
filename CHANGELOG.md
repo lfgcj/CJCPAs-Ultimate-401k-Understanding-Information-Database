@@ -266,7 +266,7 @@ Use this checklist each year to ensure the database stays current:
 |---------|------|---------|
 | 2.1.0 | Nov 2025 | Added state-specific considerations (all 50 states) |
 | 2.0.0 | Nov 2025 | 2025 plan year update; added 10 new documents; added external resources and changelog |
-| 1.0.0 | 2024 | Initial release with 35 core documents |
+| 1.0.0 | Nov 2025 | Initial release with 35 core documents |
 
 ---
 
