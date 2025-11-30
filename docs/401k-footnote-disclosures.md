@@ -385,6 +385,416 @@ The Plan does not permit investment in cryptocurrency or digital assets, either 
 
 ---
 
+### Note: Master Trust Participation
+
+The Plan participates in the [MASTER TRUST NAME] Master Trust (the "Master Trust"), which was established for the investment of assets of the Plan and [OTHER PARTICIPATING PLAN NAMES]. Each participating plan has an undivided interest in the Master Trust. The assets of the Master Trust are held by [TRUSTEE NAME].
+
+At [DATE], the Plan's interest in the Master Trust was approximately [X]% based on the Plan's proportionate share of net assets. Investment income and administrative expenses are allocated to individual plans based upon average monthly balances invested by each plan.
+
+The following presents the Plan's interest in the Master Trust at [DATE]:
+
+| | Plan's Share | Total Master Trust |
+|---|-------------|-------------------|
+| Investments at fair value | $X | $X |
+| Adjustment to contract value | X | X |
+| **Net assets** | **$X** | **$X** |
+
+| | Plan's Share | Total Master Trust |
+|---|-------------|-------------------|
+| Net investment income | $X | $X |
+| Net appreciation (depreciation) | X | X |
+| **Total investment return** | **$X** | **$X** |
+
+---
+
+### Note: 103-12 Investment Entity (Direct Filing Entity)
+
+The Plan invests in [ENTITY NAME], a Direct Filing Entity ("DFE") as defined by Department of Labor Regulations Section 2520.103-12. The DFE files a separate annual report (Form 5500) with the Department of Labor.
+
+As of [DATE], the Plan's investment in the DFE was $[AMOUNT], representing [X]% of Plan net assets. Information concerning the DFE, including its financial statements and supplemental schedules, is available in the DFE's separate Form 5500 filing.
+
+The following summarizes the Plan's investment in the DFE:
+
+| DFE Name | EIN/PN | Fair Value | % of Plan Assets |
+|----------|--------|-----------|-----------------|
+| [ENTITY NAME] | [XX-XXXXXXX/XXX] | $X | X% |
+
+---
+
+### Note: Guaranteed Investment Contracts (GICs)
+
+The Plan holds guaranteed investment contracts ("GICs") with [INSURANCE COMPANY NAME]. These contracts provide a guaranteed interest rate over a specified period.
+
+| Contract | Interest Rate | Maturity Date | Contract Value | Fair Value |
+|----------|--------------|---------------|----------------|-----------|
+| [CONTRACT #1] | X.XX% | [DATE] | $X | $X |
+| [CONTRACT #2] | X.XX% | [DATE] | $X | $X |
+| **Total GICs** | | | **$X** | **$X** |
+
+The contracts are fully benefit-responsive and are recorded at contract value. There are no reserves against contract values for credit risk of the contract issuers or otherwise. The crediting interest rate is based on a formula agreed upon with the issuer. The crediting interest rate is reviewed [quarterly/annually] for resetting.
+
+The average yield and crediting interest rate for GICs were [X.XX]% and [X.XX]%, respectively, for the plan year ended [DATE].
+
+---
+
+### Note: Insurance Company Separate Account
+
+The Plan invests in a separate account maintained by [INSURANCE COMPANY NAME]. The separate account is a pool of assets maintained by the insurance company for the collective investment of qualified retirement plan assets.
+
+As of [DATE], the Plan's investment in the separate account was $[AMOUNT], representing [X]% of Plan net assets. The separate account is valued at the net asset value of units held by the Plan as determined by the insurance company based on the fair value of the underlying investments.
+
+---
+
+### Note: Insurance Company General Account
+
+The Plan holds a group annuity contract with [INSURANCE COMPANY NAME] that is invested in the insurance company's general account. The contract guarantees [principal / a minimum interest rate of X.XX%].
+
+As of [DATE], the contract value was $[AMOUNT]. Contract value represents contributions plus accumulated interest, which is the relevant measurement for fully benefit-responsive contracts. The fair value of the contract was $[AMOUNT].
+
+The Plan's ability to receive amounts due under the contract is dependent on the claims-paying ability of [INSURANCE COMPANY NAME]. The contract issuer is rated [RATING] by [RATING AGENCY].
+
+---
+
+### Note: Collective Investment Trusts (CITs)
+
+The Plan invests in collective investment trusts ("CITs"), also known as collective trust funds or commingled funds. CITs are pooled investment vehicles maintained by a bank or trust company for the collective investment of qualified retirement plan assets.
+
+The following CITs are held by the Plan as of [DATE]:
+
+| Fund Name | Strategy | Fair Value | Redemption Frequency | Notice Period |
+|-----------|----------|-----------|---------------------|---------------|
+| [CIT NAME 1] | [Equity Index] | $X | Daily | None |
+| [CIT NAME 2] | [Fixed Income] | $X | Daily | None |
+| [CIT NAME 3] | [Target Date] | $X | Daily | None |
+| **Total CITs** | | **$X** | | |
+
+CITs are valued at the net asset value ("NAV") per unit as determined by the fund administrator based on the fair value of the underlying investments. The Plan's investments in CITs are measured at fair value using the NAV per share practical expedient and are not classified within the fair value hierarchy.
+
+There are no unfunded commitments related to CITs. Participants may direct the redemption of their investments at NAV on any business day.
+
+---
+
+### Note: Unitized Employer Stock Fund
+
+The Plan offers a unitized employer stock fund that invests primarily in common stock of [COMPANY NAME] and a short-term investment fund for liquidity purposes.
+
+As of [DATE], the unitized fund held:
+
+| Component | Fair Value | % of Fund |
+|-----------|-----------|----------|
+| [COMPANY NAME] common stock ([X] shares) | $X | X% |
+| Short-term investments (liquidity reserve) | X | X% |
+| **Total unitized fund** | **$X** | **100%** |
+
+The fund is valued daily based on the fair value of [COMPANY NAME] common stock (Level 1) and the short-term investments. Participants transact in units of the fund rather than directly in shares of company stock.
+
+The short-term investment component provides liquidity for participant transactions and is maintained at approximately [X]% of fund assets. Investment in [COMPANY NAME] stock is subject to the diversification requirements under ERISA Section 204(j).
+
+---
+
+### Note: Non-Readily Marketable Employer Securities (Level 3)
+
+The Plan holds common stock of [COMPANY NAME], the Plan Sponsor, which is a privately held company. These securities are not traded on an established securities market and are considered non-readily marketable employer securities.
+
+As of [DATE], the Plan held [NUMBER] shares of [COMPANY NAME] common stock with a fair value of $[AMOUNT], representing [X]% of Plan net assets.
+
+**Valuation Methodology**
+
+The fair value of [COMPANY NAME] common stock is determined by an independent appraiser, [APPRAISER NAME], as of [VALUATION DATE]. The valuation considers:
+- Discounted cash flow analysis
+- Comparable company analysis
+- Comparable transaction analysis
+- [Other methodologies used]
+
+**Fair Value Hierarchy**
+
+These securities are classified as Level 3 within the fair value hierarchy due to the use of significant unobservable inputs.
+
+**Level 3 Rollforward**
+
+| | [CURRENT YEAR] |
+|---|---------------|
+| Balance, beginning of year | $X |
+| Purchases | X |
+| Sales | (X) |
+| Net appreciation (depreciation) | X |
+| **Balance, end of year** | **$X** |
+
+The net appreciation (depreciation) of $[AMOUNT] is included in net appreciation in fair value of investments in the Statement of Changes in Net Assets Available for Benefits.
+
+**Sensitivity Analysis**
+
+The fair value of employer securities is sensitive to changes in the significant unobservable inputs used in the valuation. An increase (decrease) in [discount rate / growth rate / valuation multiple] would result in a [lower/higher] fair value measurement.
+
+---
+
+### Note: ESOP Component
+
+The Plan includes an employee stock ownership plan ("ESOP") component that invests in common stock of [COMPANY NAME]. The ESOP component is designed to invest primarily in employer securities.
+
+**Allocated Shares**
+
+As of [DATE], the ESOP component held [NUMBER] allocated shares of [COMPANY NAME] common stock with a fair value of $[AMOUNT], allocated to [NUMBER] participant accounts.
+
+**Unallocated Shares (Suspense Account)**
+
+*If applicable:*
+As of [DATE], [NUMBER] shares of [COMPANY NAME] common stock with a fair value of $[AMOUNT] were held in the ESOP suspense account pending allocation to participants. Shares are released from suspense and allocated to participant accounts as the ESOP loan is repaid. [Describe allocation method - shares or principal and interest method.]
+
+**ESOP Loan**
+
+*If applicable:*
+The ESOP borrowed $[AMOUNT] from [LENDER] on [DATE] to purchase [NUMBER] shares of [COMPANY NAME] common stock. The loan bears interest at [RATE]% and is repayable over [TERM] years. As of [DATE], the outstanding loan balance was $[AMOUNT].
+
+The loan is secured by the unallocated shares held in the ESOP suspense account. The Company makes annual contributions to the Plan to enable repayment of the loan.
+
+**Diversification**
+
+Participants who have attained age 55 and completed 10 years of participation in the ESOP may diversify a portion of their ESOP account balance in accordance with IRC Section 401(a)(28).
+
+---
+
+### Note: Dividend Pass-Through (Employer Securities)
+
+Dividends on [COMPANY NAME] common stock held by the Plan may be:
+- Reinvested in additional shares of company stock
+- Distributed directly to participants in cash
+- Used to repay ESOP loans
+
+During the plan year ended [DATE], dividends of $[AMOUNT] were [reinvested / distributed to participants / used to repay ESOP loans].
+
+*For pass-through dividends:*
+Participants may elect to receive dividends in cash or have them reinvested in additional shares. For the plan year ended [DATE], participants received cash dividend distributions of $[AMOUNT].
+
+---
+
+### Note: Net Unrealized Appreciation (NUA)
+
+*For distributions of employer securities:*
+
+Participants who receive distributions of [COMPANY NAME] common stock may be eligible for special tax treatment under IRC Section 402(e)(4) for the net unrealized appreciation ("NUA") on such stock. NUA represents the excess of fair market value over cost basis of employer securities distributed from the Plan.
+
+During the plan year ended [DATE], distributions of [NUMBER] shares of [COMPANY NAME] common stock with NUA of approximately $[AMOUNT] were made to [NUMBER] participants.
+
+Participants should consult with their tax advisors regarding the tax implications of NUA.
+
+---
+
+### Note: Securities Lending
+
+*If the Plan or Master Trust engages in securities lending:*
+
+The Plan participates in a securities lending program administered by [LENDING AGENT]. Under the program, the Plan loans securities to approved borrowers in exchange for collateral. The Plan continues to receive interest or dividends on loaned securities.
+
+As of [DATE], the Plan had loaned securities with a fair value of $[AMOUNT] and held collateral of $[AMOUNT], representing [X]% over-collateralization. Collateral consists of [cash / U.S. government securities / letters of credit].
+
+Securities lending income of $[AMOUNT] is included in interest and dividend income in the Statement of Changes in Net Assets Available for Benefits. Rebates and fees paid to the lending agent of $[AMOUNT] are included in administrative expenses.
+
+---
+
+### Note: Derivative Instruments
+
+*If the Plan holds derivatives:*
+
+The Plan uses derivative instruments to [hedge interest rate risk / manage currency exposure / achieve investment objectives]. As of [DATE], the Plan held the following derivative positions:
+
+| Type | Notional Amount | Fair Value Asset (Liability) | Purpose |
+|------|----------------|----------------------------|---------|
+| Interest rate swaps | $X | $X | Hedge interest rate risk |
+| Futures contracts | X | X | Equity exposure |
+| [Other] | X | X | [Purpose] |
+
+Derivatives are reported at fair value in the Statement of Net Assets Available for Benefits. The [gain/loss] on derivatives of $[AMOUNT] is included in net appreciation (depreciation) in the Statement of Changes in Net Assets Available for Benefits.
+
+---
+
+### Note: Revenue Sharing and Fee Rebates
+
+The Plan receives revenue sharing payments and fee rebates from certain mutual funds and investment managers. These amounts represent a portion of investment management fees and/or 12b-1 fees paid by the investment options.
+
+During the plan year ended [DATE], the Plan received revenue sharing and fee rebates totaling $[AMOUNT]. These amounts were [used to pay Plan administrative expenses / credited to participant accounts on a [pro rata / per capita] basis / used to reduce recordkeeping fees].
+
+| Source | Amount | Use |
+|--------|--------|-----|
+| Mutual fund revenue sharing | $X | [Administrative expenses / Participant accounts] |
+| 12b-1 fee rebates | X | [Administrative expenses / Participant accounts] |
+| **Total** | **$X** | |
+
+---
+
+### Note: Administrative Expenses and Service Provider Fees
+
+Plan administrative expenses are paid by [the Plan / the Company / a combination of Plan assets and Company contributions]. During the plan year ended [DATE], the following administrative expenses were paid from Plan assets:
+
+| Expense Type | Amount |
+|-------------|--------|
+| Recordkeeping and administration | $X |
+| Audit and tax services | X |
+| Legal fees | X |
+| Investment management fees | X |
+| Trustee/custodian fees | X |
+| Participant communication | X |
+| Loan processing fees | X |
+| Distribution processing fees | X |
+| Other | X |
+| **Total administrative expenses** | **$X** |
+
+*Per participant fee allocation:*
+Recordkeeping fees of $[AMOUNT] ($[X] per participant) were allocated to participant accounts. [Other fees were paid from forfeitures / Company contributions / revenue sharing.]
+
+*Indirect compensation:*
+In addition to direct fees, service providers may receive indirect compensation from investment options in the form of revenue sharing, 12b-1 fees, or sub-transfer agency fees. See Note [X] for information on revenue sharing.
+
+---
+
+### Note: Participant-Directed vs. Trustee-Directed Investments
+
+The Plan is primarily participant-directed; however, certain investments may be trustee-directed:
+
+**Participant-Directed Investments**
+Participants direct the investment of their account balances among the Plan's designated investment options. As of [DATE], participant-directed investments totaled $[AMOUNT], representing [X]% of Plan net assets.
+
+**Trustee-Directed Investments**
+*If applicable:*
+Certain investments are directed by the Plan Trustee or investment committee, including:
+- [Employer matching contributions pending participant direction]
+- [Forfeiture accounts]
+- [Stable value fund wrap contracts]
+
+As of [DATE], trustee-directed investments totaled $[AMOUNT], representing [X]% of Plan net assets.
+
+---
+
+### Note: Qualified Default Investment Alternative (QDIA)
+
+The Plan has designated [QDIA FUND NAME], a [target-date fund / balanced fund / managed account], as the qualified default investment alternative ("QDIA") in accordance with Department of Labor Regulations Section 2550.404c-5.
+
+Participants who do not make an investment election are invested in the QDIA. As of [DATE], $[AMOUNT] ([X]% of Plan assets) was invested in the QDIA.
+
+The QDIA [is a target-date fund based on the participant's assumed retirement age of 65 / provides a diversified mix of equity and fixed income investments / is a professionally managed account].
+
+---
+
+### Note: EPCRS Corrections (IRS Correction Programs)
+
+During the plan year, the Plan [identified / corrected] operational errors under the IRS Employee Plans Compliance Resolution System ("EPCRS").
+
+*Self-Correction Program (SCP):*
+The Plan self-corrected [describe error, e.g., "missed elective deferrals for certain participants"] in accordance with Revenue Procedure 2021-30. Corrective contributions of $[AMOUNT], including lost earnings of $[AMOUNT], were made to [NUMBER] affected participants.
+
+*Voluntary Correction Program (VCP):*
+The Plan submitted an application to the IRS under the Voluntary Correction Program to correct [describe error]. The IRS issued a compliance statement on [DATE]. Corrective contributions of $[AMOUNT] were made to affected participants.
+
+---
+
+### Note: DOL Voluntary Fiduciary Correction Program (VFCP)
+
+During the plan year, the Plan filed a correction under the Department of Labor's Voluntary Fiduciary Correction Program ("VFCP") to correct [describe breach, e.g., "late remittance of participant contributions"].
+
+Lost earnings of $[AMOUNT] were calculated using the DOL Online Calculator and credited to affected participant accounts. The Plan received a no-action letter from the DOL dated [DATE].
+
+---
+
+### Note: DOL or IRS Investigation/Examination
+
+*If under examination:*
+
+The Plan is currently under examination by the [Department of Labor / Internal Revenue Service]. The examination commenced on [DATE] and relates to [describe scope - plan operations for year(s) XXXX / specific issues]. The outcome of the examination is not yet determinable, and no provision for any potential liability has been recorded in the financial statements.
+
+*If examination concluded:*
+
+The Plan was examined by the [DOL / IRS] for the plan year(s) ended [DATE(S)]. The examination concluded on [DATE] with [no findings / the following findings: describe]. [Corrective actions taken, if any.]
+
+---
+
+### Note: Delinquent Participant Contributions
+
+*For Schedule H Line 4a disclosure:*
+
+During the plan year ended [DATE], there were participant contributions and/or participant loan repayments that were remitted to the Plan after the date they were required to be remitted under Department of Labor regulations. These delinquent contributions are reported on Schedule H, Line 4a of the Plan's Form 5500.
+
+| Description | Amount | Days Late |
+|-------------|--------|-----------|
+| Participant deferrals - [PAYROLL DATE] | $X | X |
+| Participant loan repayments - [DATE] | X | X |
+| **Total delinquent amounts** | **$X** | |
+
+Lost earnings of $[AMOUNT] have been calculated and credited to affected participant accounts. [The Plan Sponsor intends to file a correction under the DOL's Voluntary Fiduciary Correction Program.]
+
+---
+
+### Note: Going Concern Considerations
+
+*If employer has going concern issues:*
+
+[COMPANY NAME], the Plan Sponsor, has experienced [describe conditions - operating losses, negative cash flows, debt covenant violations, etc.]. These conditions raise substantial doubt about the Company's ability to continue as a going concern.
+
+The Plan's continued operation is dependent on the Plan Sponsor's ability to continue business operations. In the event of Plan Sponsor insolvency or Plan termination, participants would become 100% vested in their account balances, and assets would be distributed in accordance with the Plan document and ERISA requirements.
+
+The Plan's assets are held in trust and are not subject to the claims of the Plan Sponsor's creditors.
+
+---
+
+### Note: Plan Sponsor Bankruptcy
+
+[COMPANY NAME], the Plan Sponsor, filed for protection under [Chapter 7 / Chapter 11] of the U.S. Bankruptcy Code on [DATE].
+
+**Plan Status**
+[The Plan continues to operate during the bankruptcy proceedings. / The Plan has been terminated as part of the bankruptcy proceedings.]
+
+**Participant Vesting**
+[Participants became 100% vested in their account balances upon the bankruptcy filing. / Participants remain subject to the Plan's normal vesting schedule as the Plan continues to operate.]
+
+**Employer Contributions**
+[Employer contributions have been suspended during the bankruptcy proceedings. / The Company continues to make employer contributions as provided in the Plan document.]
+
+**Plan Assets**
+Plan assets are held in trust for the exclusive benefit of participants and beneficiaries and are not subject to the claims of the Plan Sponsor's creditors.
+
+---
+
+### Note: Commitments and Contingencies
+
+*If applicable:*
+
+The Plan has entered into commitments and may be subject to certain contingencies:
+
+**Unfunded Commitments**
+*If any:*
+The Plan has unfunded commitments to invest an additional $[AMOUNT] in [INVESTMENT NAME], a private equity fund. These commitments may be called at any time through [DATE].
+
+**Contingencies**
+[Describe any contingent liabilities - pending litigation, tax positions, etc., if not separately disclosed.]
+
+The Plan administrator believes that the resolution of any pending matters will not have a material adverse effect on the Plan's financial statements.
+
+---
+
+### Note: Prior Period Adjustment
+
+*If financial statements are restated:*
+
+The Plan has restated its [PRIOR YEAR] financial statements to correct [describe error - misclassification, valuation error, omission, etc.].
+
+The effect of the restatement on previously reported amounts is as follows:
+
+| | As Previously Reported | Adjustment | As Restated |
+|---|----------------------|------------|-------------|
+| Net assets available for benefits, [PRIOR YEAR END] | $X | $X | $X |
+| [Other affected line items] | X | X | X |
+
+The restatement [had no effect on / increased / decreased] net assets available for benefits by $[AMOUNT].
+
+---
+
+### Note: Excess Plan Assets (Plan Termination)
+
+*If applicable upon plan termination:*
+
+Following the distribution of all participant account balances and payment of Plan expenses, the Plan had excess assets of $[AMOUNT] as of [DATE]. In accordance with the Plan document and applicable regulations, excess assets [were/will be] [returned to the Plan Sponsor / allocated to participant accounts / used as described].
+
+---
+
 ## Part 3: Transfers & Plan Changes
 
 ### Note: Transfers from Other Plans
@@ -784,6 +1194,104 @@ The Plan permits participants to self-certify that they have a financial hardshi
 
 ---
 
+### Note: De Minimis Financial Incentives
+
+Effective [DATE], in accordance with SECURE 2.0 Act Section 113, the Plan Sponsor provides de minimis financial incentives to encourage employees to contribute to the Plan. Eligible employees who elect to participate in the Plan receive [describe incentive - gift card up to $250 / cash bonus / other]. During the plan year ended [DATE], incentives totaling $[AMOUNT] were provided to [NUMBER] employees.
+
+These incentives are paid by the Company and are not considered Plan assets or benefits.
+
+---
+
+### Note: Emergency Expense Distributions
+
+Effective [DATE], the Plan permits emergency expense distributions in accordance with SECURE 2.0 Act Section 115. Participants may withdraw up to $1,000 per calendar year for unforeseeable or immediate financial needs without being subject to the 10% early withdrawal penalty.
+
+Participants may only take one emergency expense distribution per calendar year unless the amount is repaid within three years. If a participant repays the distribution within three years, the repayment is treated as a rollover contribution.
+
+During the plan year ended [DATE], [NUMBER] participants received emergency expense distributions totaling $[AMOUNT].
+
+---
+
+### Note: Domestic Abuse Victim Distributions
+
+Effective [DATE], the Plan permits distributions to participants who certify that they have experienced domestic abuse within the preceding 12 months, in accordance with SECURE 2.0 Act Section 311. These distributions are:
+- Limited to the lesser of $10,000 (indexed for inflation) or 50% of the participant's vested account balance
+- Exempt from the 10% early withdrawal penalty
+- Eligible for repayment within three years
+
+The Plan relies on participant self-certification of domestic abuse victim status. During the plan year ended [DATE], [NUMBER] participants received domestic abuse distributions totaling $[AMOUNT].
+
+---
+
+### Note: Terminal Illness Distributions
+
+Effective [DATE], the Plan permits distributions to participants who have been certified by a physician as having a terminal illness (life expectancy of 84 months or less), in accordance with SECURE 2.0 Act Section 326. These distributions are not subject to the 10% early withdrawal penalty and may be repaid within three years.
+
+During the plan year ended [DATE], [NUMBER] participants received terminal illness distributions totaling $[AMOUNT].
+
+---
+
+### Note: Qualified Birth or Adoption Distributions
+
+The Plan permits qualified birth or adoption distributions ("QBADs") of up to $5,000 per birth or adoption event in accordance with SECURE Act Section 113. The distribution must be taken within one year of the birth or finalization of the adoption. QBADs are not subject to the 10% early withdrawal penalty and may be repaid to the Plan at any time.
+
+During the plan year ended [DATE], [NUMBER] participants received QBADs totaling $[AMOUNT].
+
+---
+
+### Note: Federally Declared Disaster Distributions
+
+*If applicable for specific disaster:*
+
+The Plan permits qualified disaster recovery distributions for participants affected by [DISASTER NAME] as designated by FEMA in [DISASTER DECLARATION NUMBER]. In accordance with SECURE 2.0 Act Section 331, affected participants may withdraw up to $22,000 without being subject to the 10% early withdrawal penalty. Income from these distributions may be spread over three years, and amounts may be repaid within three years.
+
+During the plan year ended [DATE], [NUMBER] participants received qualified disaster distributions totaling $[AMOUNT].
+
+---
+
+### Note: Automatic Portability
+
+Effective [DATE], the Plan participates in an automatic portability program administered by [PROVIDER NAME]. Under this program, when a participant with a small account balance terminates employment and receives an automatic distribution to an IRA, the IRA balance may be automatically transferred to the participant's new employer's retirement plan when the participant becomes employed by a new employer who also participates in the program.
+
+This feature is designed to reduce retirement account "leakage" and help participants consolidate their retirement savings.
+
+---
+
+### Note: Catch-Up Contributions - Roth Requirement for HCEs (Effective 2026)
+
+*For disclosure in 2025 plan year or later:*
+
+Effective for plan years beginning after December 31, 2025, participants who earned more than $145,000 in FICA wages in the prior year (as indexed) must make catch-up contributions on a Roth (after-tax) basis in accordance with SECURE 2.0 Act Section 603. Pre-tax catch-up contributions will no longer be permitted for these participants.
+
+[The Plan has been amended to implement this requirement. / The Plan will be amended prior to the effective date to implement this requirement.]
+
+---
+
+### Note: Starter 401(k) Plan
+
+*If applicable:*
+
+The Plan is a Starter 401(k) plan established in accordance with SECURE 2.0 Act Section 121. This simplified retirement plan allows employees to make elective deferrals only; no employer contributions are permitted.
+
+Key features of the Starter 401(k) plan:
+- Automatic enrollment at [3-15]% (within allowed range)
+- Employee deferral limit: IRA contribution limit ($[AMOUNT] for [YEAR])
+- No employer contributions
+- No nondiscrimination testing required
+- No top-heavy testing required
+
+All employees who have attained age 21 are eligible to participate.
+
+---
+
+### Note: SECURE 2.0 Plan Amendment Deadline
+
+The Plan Sponsor intends to adopt any necessary amendments to bring the Plan into compliance with the SECURE 2.0 Act provisions by the applicable deadline. For most provisions, the amendment deadline is December 31, 2026 (December 31, 2028 for governmental plans and December 31, 2029 for collectively bargained plans).
+
+The Plan has been operated in accordance with applicable SECURE 2.0 provisions since their effective dates, and amendments will be adopted on a timely basis to document these operational changes.
+
+---
+
 ## Part 8: Form 5500 Reconciliation
 
 ### Note: Reconciliation of Financial Statements to Form 5500
@@ -838,41 +1346,105 @@ The following is a reconciliation of contributions per the financial statements 
 
 | Scenario | Required Notes |
 |----------|---------------|
-| **All Plans** | Plan Description, Accounting Policies, Tax Status, Fair Value, Related Parties, Plan Termination Rights, Risks |
-| **Has Stable Value Fund** | Fully Benefit-Responsive Contracts |
-| **Has Employer Stock** | Employer Securities, Concentration Risk |
-| **Has Self-Directed Brokerage** | Self-Directed Brokerage Accounts |
-| **Has Alternative Investments** | Alternative Investments |
-| **Has Cryptocurrency/Digital Assets** | Cryptocurrency/Digital Asset Investments |
-| **Has Participant Loans** | Notes Receivable from Participants |
-| **Hardship Withdrawals Permitted** | Hardship Withdrawals |
-| **Has RMD Participants** | Required Minimum Distributions |
-| **Processed QDROs** | Qualified Domestic Relations Orders |
-| **Plan Merger (Assets In)** | Transfers from Other Plans |
-| **Plan Spinoff (Assets Out)** | Transfers to Other Plans |
-| **Joining a PEP** | Transfer to PEP |
-| **Leaving a PEP** | Transfer from PEP |
-| **Joining a MEP** | Transfer to MEP |
-| **Leaving a MEP** | Transfer from MEP |
-| **Plan Amendment** | Plan Amendment |
-| **Plan Conversion** | Plan Conversion (Safe Harbor, Roth, etc.) |
-| **Late Contributions** | Late Remittance |
-| **Prohibited Transaction** | Prohibited Transactions |
-| **Excess Contributions Returned** | Excess Contributions |
-| **Partial Termination** | Partial Plan Termination |
-| **Terminated Plan** | Plan Termination |
-| **Frozen Plan** | Plan Frozen |
-| **Pending Litigation** | Litigation |
-| **Cybersecurity Incident** | Cybersecurity Incident |
-| **Missing Participants** | Missing Participants |
-| **Changed Recordkeepers** | Change in Recordkeeper |
-| **SECURE 2.0 - Auto Enrollment** | Automatic Enrollment Feature |
-| **SECURE 2.0 - Enhanced Catch-Up** | Enhanced Catch-Up Contributions (Ages 60-63) |
-| **SECURE 2.0 - LTPT Employees** | Long-Term Part-Time Employees |
-| **SECURE 2.0 - Student Loan Match** | Student Loan Matching Contributions |
-| **SECURE 2.0 - PLESA** | Pension-Linked Emergency Savings Account |
-| **SECURE 2.0 - Roth Employer** | Roth Employer Contributions |
-| **All Plans** | Form 5500 Reconciliation |
+| **STANDARD - All Plans** | Plan Description, Accounting Policies, Tax Status, Fair Value, Related Parties, Plan Termination Rights, Risks |
+| | |
+| **INVESTMENTS** | |
+| Has Stable Value Fund | Fully Benefit-Responsive Contracts |
+| Has GICs | Guaranteed Investment Contracts |
+| Participates in Master Trust | Master Trust Participation |
+| Invests in 103-12 Entity (DFE) | 103-12 Investment Entity |
+| Has Insurance Separate Account | Insurance Company Separate Account |
+| Has Insurance General Account | Insurance Company General Account |
+| Has Collective Investment Trusts | Collective Investment Trusts (CITs) |
+| Has Employer Stock | Employer Securities, Concentration Risk |
+| Has Unitized Stock Fund | Unitized Employer Stock Fund |
+| Has Private Company Stock | Non-Readily Marketable Securities (Level 3) |
+| Has Self-Directed Brokerage | Self-Directed Brokerage Accounts |
+| Has Alternative Investments | Alternative Investments |
+| Has Cryptocurrency/Digital Assets | Cryptocurrency/Digital Asset Investments |
+| Engages in Securities Lending | Securities Lending |
+| Uses Derivatives | Derivative Instruments |
+| | |
+| **ESOP FEATURES** | |
+| Has ESOP Component | ESOP Component |
+| Has Dividend Pass-Through | Dividend Pass-Through |
+| Has NUA Distributions | Net Unrealized Appreciation |
+| | |
+| **FEES & EXPENSES** | |
+| Receives Revenue Sharing | Revenue Sharing and Fee Rebates |
+| Expenses Paid from Plan | Administrative Expenses and Service Provider Fees |
+| | |
+| **PLAN STRUCTURE** | |
+| Has QDIA | Qualified Default Investment Alternative |
+| Has Trustee-Directed Assets | Participant-Directed vs. Trustee-Directed |
+| Has Participant Loans | Notes Receivable from Participants |
+| Has Forfeitures | Forfeitures |
+| | |
+| **PARTICIPANT ACTIVITY** | |
+| Hardship Withdrawals Permitted | Hardship Withdrawals |
+| Has RMD Participants | Required Minimum Distributions |
+| Processed QDROs | Qualified Domestic Relations Orders |
+| Returned Excess Contributions | Excess Contributions |
+| | |
+| **TRANSFERS & PLAN CHANGES** | |
+| Plan Merger (Assets In) | Transfers from Other Plans |
+| Plan Spinoff (Assets Out) | Transfers to Other Plans |
+| Joining a PEP | Transfer to PEP |
+| Leaving a PEP | Transfer from PEP |
+| Joining a MEP | Transfer to MEP |
+| Leaving a MEP | Transfer from MEP |
+| Plan Amendment | Plan Amendment |
+| Plan Conversion | Plan Conversion |
+| | |
+| **COMPLIANCE & CORRECTIONS** | |
+| Late Contributions | Late Remittance, Delinquent Participant Contributions |
+| Prohibited Transaction | Prohibited Transactions |
+| Made EPCRS Correction | EPCRS Corrections |
+| Filed VFCP | DOL VFCP |
+| Under DOL/IRS Exam | DOL or IRS Investigation |
+| Partial Termination | Partial Plan Termination |
+| | |
+| **PLAN STATUS** | |
+| Plan Terminating | Plan Termination (In Progress) |
+| Plan Terminated | Plan Termination (Completed), Excess Plan Assets |
+| Plan Frozen | Plan Frozen |
+| | |
+| **SPECIAL SITUATIONS** | |
+| Pending Litigation | Litigation |
+| Cybersecurity Incident | Cybersecurity Incident |
+| Missing Participants | Missing Participants |
+| Changed Recordkeepers | Change in Recordkeeper |
+| Employer Going Concern | Going Concern Considerations |
+| Employer Bankruptcy | Plan Sponsor Bankruptcy |
+| Has Unfunded Commitments | Commitments and Contingencies |
+| Prior Period Adjustment | Prior Period Adjustment |
+| Material Subsequent Events | Subsequent Events |
+| | |
+| **SECURE 2.0 PROVISIONS** | |
+| Auto Enrollment (New Plans) | Automatic Enrollment Feature |
+| Enhanced Catch-Up (Ages 60-63) | Enhanced Catch-Up Contributions |
+| Long-Term Part-Time | Long-Term Part-Time Employees |
+| Student Loan Matching | Student Loan Matching Contributions |
+| Emergency Savings (PLESA) | Pension-Linked Emergency Savings Account |
+| Roth Employer Contributions | Roth Employer Contributions |
+| De Minimis Incentives | De Minimis Financial Incentives |
+| Emergency Expense Distributions | Emergency Expense Distributions |
+| Domestic Abuse Distributions | Domestic Abuse Victim Distributions |
+| Terminal Illness Distributions | Terminal Illness Distributions |
+| Birth/Adoption Distributions | Qualified Birth or Adoption Distributions |
+| Disaster Distributions | Federally Declared Disaster Distributions |
+| Automatic Portability | Automatic Portability |
+| HCE Roth Catch-Up (2026) | Catch-Up Roth Requirement for HCEs |
+| Starter 401(k) | Starter 401(k) Plan |
+| SECURE 2.0 Amendments | SECURE 2.0 Plan Amendment Deadline |
+| | |
+| **RECONCILIATION - All Plans** | Form 5500 Reconciliation |
+
+---
+
+## Total Footnote Count: 80+ Templates
+
+This document provides templates for every conceivable footnote disclosure scenario for ERISA 103(a)(3)(C) limited scope audits and full scope audits of 401(k) plans.
 
 ---
 
