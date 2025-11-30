@@ -194,11 +194,9 @@ Not Professional Advice: This guide is not a substitute for professional account
 
 No CPA-Client Relationship: Reading, using, or relying on this guide does not create a CPA-client, attorney-client, or any other professional relationship between you and the author(s) or publisher(s) of this content.
 
-Verify with Professionals: Before implementing any accounting methods, chart of accounts structures, job costing procedures, WIP schedules, or other financial practices described in this guide, you should consult with a qualified Certified Public Accountant (CPA), tax professional, or attorney who is familiar with your specific business situation and applicable laws.
+Verify with Professionals: Before implementing any financial practices described in this guide, you should consult with a qualified Certified Public Accountant (CPA), tax professional, or attorney who is familiar with your specific business situation and applicable laws.
 
 Accuracy Not Guaranteed: While every effort has been made to ensure the accuracy and completeness of the information in this guide, accounting standards (GAAP), tax laws, and software features change frequently. The author(s) make no guarantees that the information is current, complete, or error-free.
-
-Software Changes: QuickBooks Online is a third-party software product that is updated frequently. Screenshots, features, menu locations, and workflows described in this guide may differ from the current version of the software. Always refer to official Intuit/QuickBooks documentation for the most current information.
 
 State and Local Variations: Construction accounting requirements, lien laws, retention rules, and tax obligations vary significantly by state, county, and municipality. This guide provides general guidance and may not address requirements specific to your jurisdiction.
 
