@@ -1,6 +1,6 @@
 # Ultimate 401(k) Understanding Information Database
 
-**Version 2.1.1 | Updated December 2025 | 38,000+ Lines of Documentation**
+**Version 2.2.1 | Updated December 2025 | 39,000+ Lines of Documentation**
 
 The most comprehensive resource for understanding every detail of 401(k) retirement plans and **401(k) audits** - covering both limited scope and full scope engagements, MEPs, PEPs, and everything in between.
 
@@ -60,6 +60,7 @@ The most comprehensive resource for understanding every detail of 401(k) retirem
 - [Engagement Letter Templates](docs/401k-engagement-letters.md) - Limited scope, full scope, and first-year engagement letters
 - [Management Representation Letters](docs/401k-management-representations.md) - Comprehensive rep letter templates
 - [Fraud Risk Assessment](docs/401k-fraud-risk-assessment.md) - Fraud risk evaluation templates and procedures
+- [Footnote Disclosure Templates](docs/401k-footnote-disclosures.md) - Complete financial statement note templates
 
 ### Part 4D: Specialized Plan Audits
 - [MEP and PEP Audits](docs/401k-mep-pep-audits.md) - Multiple Employer Plans and Pooled Employer Plans audit guide
@@ -191,12 +192,12 @@ You'll find detailed, actionable information organized for easy reference.
 | Audit Procedures | 9 guides | ~6,500 | Planning through reporting |
 | Limited Scope Resources | 7 templates | ~5,100 | Programs, checklists, templates |
 | Full Scope Resources | 1 program | ~730 | Complete full scope audit program |
-| Audit Tools & Templates | 4 templates | ~2,740 | Calculations, letters, fraud assessment |
+| Audit Tools & Templates | 5 templates | ~3,500 | Calculations, letters, fraud, footnotes |
 | Specialized Audits | 1 guide | ~800 | MEP/PEP audit procedures |
 | Reference Materials | 4 guides | ~4,130 | Glossary, flowcharts, case studies, QC |
 | Regulatory & Compliance | 4 guides | ~3,400 | DOL, IRS, Form 5500, SECURE 2.0 |
 | Special Topics | 3 guides | ~1,700 | Cybersecurity, external resources, state-specific |
-| **Total** | **47+ documents** | **~36,000+** | **THE ULTIMATE RESOURCE** |
+| **Total** | **48+ documents** | **~37,000+** | **THE ULTIMATE RESOURCE** |
 
 ### New in Version 2.0.0
 
