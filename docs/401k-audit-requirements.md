@@ -775,6 +775,26 @@ First audit considerations:
 
 ---
 
+## Regulatory References
+
+### DOL Regulations (Code of Federal Regulations)
+
+- **[29 CFR 2520.104-46](https://www.ecfr.gov/current/title-29/subtitle-B/chapter-XXV/subchapter-C/part-2520/section-2520.104-46)** - Waiver of examination for plans with fewer than 100 participants
+- **[29 CFR 2520.104-50](https://www.ecfr.gov/current/title-29/subtitle-B/chapter-XXV/subchapter-C/part-2520/section-2520.104-50)** - Short plan years, deferral of accountant's examination
+- **[29 CFR 2520.103-1](https://www.ecfr.gov/current/title-29/subtitle-B/chapter-XXV/subchapter-C/part-2520/subpart-C/section-2520.103-1)** - Contents of the annual report (participant count methodology)
+
+### IRS Guidance
+
+- **[IRS Notice 2024-80](https://www.irs.gov/pub/irs-drop/n-24-80.pdf)** - 2025 retirement plan contribution limits
+- **[IRS Retirement Topics - 401(k) Contribution Limits](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-401k-and-profit-sharing-plan-contribution-limits)**
+
+### Additional Resources
+
+- [DOL Form 5500 Series Instructions](https://www.dol.gov/agencies/ebsa/employers-and-advisers/plan-administration-and-compliance/reporting-and-filing/form-5500)
+- [AICPA Employee Benefit Plan Audit Quality Center](https://www.aicpa.org/resources/landing/employee-benefit-plan-audit-quality-center)
+
+---
+
 ## Related Resources
 
 - [Audit Overview](401k-audit-overview.md)
