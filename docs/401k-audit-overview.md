@@ -82,24 +82,26 @@ Plans with 100 or more participants with account balances at the beginning of th
 - Individuals not yet meeting eligibility requirements
 - Beneficiaries already receiving full benefits
 
-### The 80-120 Rule
+### The 100/120 Rule (Commonly Miscalled "80-120 Rule")
 
-For plans near the threshold:
+For plans near the threshold, there are only **TWO thresholds that matter: 100 and 120**. The number "80" is irrelevant.
 
 | Prior Year Status | Current Year Count | Audit Requirement |
 |-------------------|-------------------|-------------------|
-| Small plan | Under 100 | No audit required |
-| Small plan | 100-120 | May stay small (no audit) |
-| Small plan | Over 120 | Audit required |
-| Large plan | 100+ | Audit required |
-| Large plan | 80-99 | May elect small plan (no audit) |
-| Large plan | Under 80 | No audit required |
+| Small plan | Under 121 | No audit required (stay small) |
+| Small plan | 121 or more | Audit required (must become large) |
+| Large plan | Under 100 | No audit required (can elect small) |
+| Large plan | 100 or more | Audit required (must stay large) |
+
+**Key thresholds:**
+- **100** = Point where large plans can drop to small
+- **121** = Point where small plans must become large
 
 **Example:**
 ```
 Plan Year 2023: 95 participants with balances (no audit required)
 Plan Year 2024: 110 participants with balances
-Since 110 is between 100-120 and prior year was small plan,
+Since 110 is under 121 and prior year was small plan,
 plan may continue to file as small plan (no audit required)
 
 Plan Year 2025: 125 participants with balances

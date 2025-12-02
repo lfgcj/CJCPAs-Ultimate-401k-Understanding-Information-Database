@@ -196,15 +196,20 @@ Employer C participants with balances:    55
 Total participants with balances:        135 → Audit required
 ```
 
-### 80-120 Rule Application
+### 100/120 Rule Application
+
+The number "80" is irrelevant. Only two thresholds matter: **100** and **120**.
 
 | If Last Year Was: | And This Year Participants Are: | Audit Requirement |
 |-------------------|---------------------------------|-------------------|
 | Large plan (audit) | 100 or more | Continue audit |
-| Large plan (audit) | 80-99 | May elect small plan |
-| Large plan (audit) | Under 80 | Small plan (no audit) |
-| Small plan (no audit) | 120 or fewer | Continue small plan |
-| Small plan (no audit) | Over 120 | Audit required |
+| Large plan (audit) | Under 100 | May elect small plan (no audit) |
+| Small plan (no audit) | Under 121 | Continue small plan (no audit) |
+| Small plan (no audit) | 121 or more | Audit required |
+
+**Key thresholds:**
+- **100** = Point where large plans can drop to small
+- **121** = Point where small plans must become large
 
 ### Limited Scope vs. Full Scope
 
