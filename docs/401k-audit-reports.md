@@ -9,12 +9,13 @@ The audit report is the culmination of the 401(k) audit process. This document e
 1. [Components of the Audit Report](#components-of-the-audit-report)
 2. [Types of Audit Opinions](#types-of-audit-opinions)
 3. [Limited Scope Audit Reports](#limited-scope-audit-reports)
-4. [Financial Statements](#financial-statements)
-5. [Required Supplemental Schedules](#required-supplemental-schedules)
-6. [Notes to Financial Statements](#notes-to-financial-statements)
-7. [Management Letter](#management-letter)
-8. [Form 5500 Integration](#form-5500-integration)
-9. [Report Distribution](#report-distribution)
+4. [Compilation Engagements for 401(k) Plans](#compilation-engagements-for-401k-plans)
+5. [Financial Statements](#financial-statements)
+6. [Required Supplemental Schedules](#required-supplemental-schedules)
+7. [Notes to Financial Statements](#notes-to-financial-statements)
+8. [Management Letter](#management-letter)
+9. [Form 5500 Integration](#form-5500-integration)
+10. [Report Distribution](#report-distribution)
 
 ---
 
@@ -248,6 +249,326 @@ The certifying institution must provide written certification that:
 2. Prepared in accordance with GAAP
 3. Includes all required elements
 4. Signed by authorized official
+
+---
+
+## Compilation Engagements for 401(k) Plans
+
+### What is a Compilation?
+
+A compilation is an engagement where an accountant assists management in presenting financial statements without providing any assurance on those statements. Unlike an audit, the accountant does not verify the accuracy or completeness of the information.
+
+**Key Distinction:** Under SSARS (Statements on Standards for Accounting and Review Services), compilations are governed by AR-C Section 80.
+
+### Audit vs. Compilation: Critical Difference for ERISA Plans
+
+| Aspect | Audit | Compilation |
+|--------|-------|-------------|
+| **Assurance Level** | Reasonable assurance (opinion provided) | No assurance (no opinion) |
+| **Standards** | GAAS/SAS 136 | SSARS/AR-C 80 |
+| **Testing Required** | Yes - substantive and controls testing | No - only compiles information |
+| **ERISA Compliant** | **YES** - Required for large plans | **NO** - Not acceptable for ERISA |
+| **Independence Required** | Yes (must be independent) | Can disclose lack of independence |
+| **Report Format** | Multiple sections with headings | Single paragraph, no headings |
+
+**CRITICAL:** A compilation is **NOT acceptable** as a substitute for an audit when ERISA requires an audit (plans with 100+ participants with account balances). The DOL requires an audit by an Independent Qualified Public Accountant (IQPA).
+
+### When Are Compilations Appropriate for 401(k) Plans?
+
+Compilations may be appropriate in these limited situations:
+
+| Situation | Use Case |
+|-----------|----------|
+| **Small plans (under 100 participants)** | Voluntary financial statements for internal governance |
+| **Plan termination** | Financial statements for final distributions (if audit not required) |
+| **Interim financial statements** | Mid-year statements for committee review |
+| **Internal reporting** | Statements for plan sponsor management |
+| **Non-ERISA plans** | Plans not subject to ERISA audit requirements |
+| **Initial plan setup** | Baseline financial statements before first full year |
+
+**Important:** Even when compilations are permitted, many plan sponsors prefer audits for fiduciary protection and due diligence purposes.
+
+### Applicable Standards: SSARS 21-26 and AR-C Section 80
+
+The current authoritative guidance for compilation engagements includes:
+
+| Standard | Description | Effective |
+|----------|-------------|-----------|
+| **SSARS 21** | Comprehensive revision of compilation standards | December 2015 |
+| **SSARS 22** | Compilation of pro forma information | May 2016 |
+| **SSARS 23** | Omnibus amendments | October 2016 |
+| **SSARS 24** | Omnibus amendments | May 2018 |
+| **SSARS 25** | Materiality and adverse conclusions | Effective 2021 |
+| **SSARS 26** | Quality management requirements | Effective 2025 |
+
+All compilation engagements are now codified under **AR-C Section 80** of AICPA Professional Standards.
+
+### Compilation Engagement Requirements
+
+Under AR-C Section 80, the accountant must:
+
+1. **Obtain engagement letter** signed by management
+2. **Understand the entity** and its financial reporting framework
+3. **Read the financial statements** to identify obvious errors
+4. **Issue a compilation report** (always required)
+5. **Document the engagement** per AR-C requirements
+
+The accountant is **NOT required** to:
+- Verify accuracy or completeness of information
+- Obtain audit evidence
+- Test internal controls
+- Make inquiries or perform analytical procedures
+
+### Standard Compilation Report - Employee Benefit Plan
+
+The compilation report is distinctively formatted as a **single paragraph with no section headings**, making it visually different from audit or review reports.
+
+#### Standard Compilation Report (Full Disclosure)
+
+```
+Accountant's Compilation Report
+
+To the Plan Administrator and Participants of
+[PLAN NAME]
+
+Management is responsible for the accompanying financial statements
+of [PLAN NAME] (the "Plan"), which comprise the statement of net
+assets available for benefits as of December 31, 20XX, and the
+related statement of changes in net assets available for benefits
+for the year then ended, and the related notes to the financial
+statements in accordance with accounting principles generally
+accepted in the United States of America. We have performed a
+compilation engagement in accordance with Statements on Standards
+for Accounting and Review Services promulgated by the Accounting
+and Review Services Committee of the AICPA. We did not audit or
+review the financial statements nor were we required to perform
+any procedures to verify the accuracy or completeness of the
+information provided by management. Accordingly, we do not express
+an opinion, a conclusion, nor provide any form of assurance on
+these financial statements.
+
+[Firm Signature]
+[City, State]
+[Date]
+```
+
+#### Compilation Report - Management Omits Substantially All Disclosures
+
+When management elects to omit substantially all disclosures required by GAAP:
+
+```
+Accountant's Compilation Report
+
+To the Plan Administrator and Participants of
+[PLAN NAME]
+
+Management is responsible for the accompanying financial statements
+of [PLAN NAME] (the "Plan"), which comprise the statement of net
+assets available for benefits as of December 31, 20XX, and the
+related statement of changes in net assets available for benefits
+for the year then ended in accordance with accounting principles
+generally accepted in the United States of America. We have
+performed a compilation engagement in accordance with Statements
+on Standards for Accounting and Review Services promulgated by the
+Accounting and Review Services Committee of the AICPA. We did not
+audit or review the financial statements nor were we required to
+perform any procedures to verify the accuracy or completeness of
+the information provided by management. Accordingly, we do not
+express an opinion, a conclusion, nor provide any form of assurance
+on these financial statements.
+
+Management has elected to omit substantially all the disclosures
+required by accounting principles generally accepted in the United
+States of America. If the omitted disclosures were included in the
+financial statements, they might influence the user's conclusions
+about the Plan's net assets available for benefits and changes
+therein. Accordingly, the financial statements are not designed
+for those who are not informed about such matters.
+
+[Firm Signature]
+[City, State]
+[Date]
+```
+
+#### Compilation Report - Known Departure from GAAP
+
+When the financial statements contain a known departure from GAAP:
+
+```
+Accountant's Compilation Report
+
+To the Plan Administrator and Participants of
+[PLAN NAME]
+
+Management is responsible for the accompanying financial statements
+of [PLAN NAME] (the "Plan"), which comprise the statement of net
+assets available for benefits as of December 31, 20XX, and the
+related statement of changes in net assets available for benefits
+for the year then ended, and the related notes to the financial
+statements in accordance with accounting principles generally
+accepted in the United States of America. We have performed a
+compilation engagement in accordance with Statements on Standards
+for Accounting and Review Services promulgated by the Accounting
+and Review Services Committee of the AICPA. We did not audit or
+review the financial statements nor were we required to perform
+any procedures to verify the accuracy or completeness of the
+information provided by management. Accordingly, we do not express
+an opinion, a conclusion, nor provide any form of assurance on
+these financial statements.
+
+Accounting principles generally accepted in the United States of
+America require that investments be reported at fair value.
+Management has informed us that certain investments are stated at
+cost, and that the effects of this departure from accounting
+principles generally accepted in the United States of America on
+the financial statements have not been determined.
+
+[Firm Signature]
+[City, State]
+[Date]
+```
+
+#### Compilation Report - Accountant Not Independent
+
+When the accountant is not independent but is permitted to issue a compilation:
+
+```
+Accountant's Compilation Report
+
+To the Plan Administrator and Participants of
+[PLAN NAME]
+
+Management is responsible for the accompanying financial statements
+of [PLAN NAME] (the "Plan"), which comprise the statement of net
+assets available for benefits as of December 31, 20XX, and the
+related statement of changes in net assets available for benefits
+for the year then ended, and the related notes to the financial
+statements in accordance with accounting principles generally
+accepted in the United States of America. We have performed a
+compilation engagement in accordance with Statements on Standards
+for Accounting and Review Services promulgated by the Accounting
+and Review Services Committee of the AICPA. We did not audit or
+review the financial statements nor were we required to perform
+any procedures to verify the accuracy or completeness of the
+information provided by management. Accordingly, we do not express
+an opinion, a conclusion, nor provide any form of assurance on
+these financial statements.
+
+We are not independent with respect to [PLAN NAME].
+
+[Firm Signature]
+[City, State]
+[Date]
+```
+
+**Note:** The accountant may, but is not required to, disclose the reason(s) for the lack of independence.
+
+### Compilation Report with Supplementary Information
+
+When supplementary information accompanies compiled financial statements:
+
+```
+Accountant's Compilation Report
+
+[Standard compilation paragraph as above]
+
+The [identify supplementary information] is presented for purposes
+of additional analysis and is not a required part of the basic
+financial statements. The information is the representation of
+management. The information was subject to our compilation
+engagement; however, we have not audited or reviewed the
+supplementary information and, accordingly, do not express an
+opinion, a conclusion, nor provide any assurance on such
+supplementary information.
+
+[Firm Signature]
+[City, State]
+[Date]
+```
+
+### Comparison: Audit, Review, and Compilation
+
+| Element | Audit | Review | Compilation |
+|---------|-------|--------|-------------|
+| **Opinion/Conclusion** | Audit opinion | Review conclusion | No assurance |
+| **Procedures** | Extensive testing | Inquiry and analytical | Read for obvious errors |
+| **Report Format** | Multiple sections | Multiple sections | Single paragraph |
+| **Independence** | Required | Required | Can disclose lack |
+| **ERISA Compliant** | Yes | No | No |
+| **Cost** | Highest | Medium | Lowest |
+| **Assurance Level** | Reasonable | Limited | None |
+
+### Special Considerations for Employee Benefit Plans
+
+#### 1. Supplemental Schedules
+
+If supplemental schedules (such as Schedule of Assets) are compiled along with the financial statements, include the supplementary information paragraph shown above.
+
+#### 2. Fair Value Measurements
+
+Employee benefit plan investments should be reported at fair value. If fair value cannot be determined or cost is used instead, this is a GAAP departure that must be disclosed in the compilation report.
+
+#### 3. Participant Data
+
+Compilations may include participant-level data, but the accountant provides no assurance on the accuracy of such information.
+
+#### 4. Form 5500 Integration
+
+**Compiled financial statements cannot be attached to Form 5500 to satisfy the audit requirement.** For large plans requiring an audit, only an IQPA audit report is acceptable.
+
+### When to Recommend an Audit Instead of Compilation
+
+Even when a compilation is permitted, recommend an audit when:
+
+| Situation | Reason |
+|-----------|--------|
+| Plan approaching 100 participants | May need audit next year |
+| Significant compliance concerns | Audit provides assurance |
+| Fiduciary liability concerns | Audit provides protection |
+| Complex investments | Need verification of values |
+| Plan termination with issues | May need more thorough review |
+| Mergers or acquisitions | Due diligence purposes |
+| Prior compliance problems | Need independent verification |
+
+### Documentation Requirements
+
+For compilation engagements, document:
+
+1. **Engagement letter** with scope and responsibilities
+2. **Understanding of entity** and accounting framework
+3. **Reading of financial statements** for obvious errors
+4. **Significant matters** identified during engagement
+5. **Communications with management** about issues found
+6. **Final compilation report** issued
+
+### Ethical Considerations
+
+#### Independence Disclosure
+
+Unlike audits, accountants need not be independent to perform compilations. However:
+- Independence impairment must be disclosed in the report
+- Cannot perform audits or reviews if not independent
+- Consider client's needs when independence is impaired
+
+#### Professional Judgment
+
+Even in compilations, exercise professional judgment regarding:
+- Obvious material errors or misstatements
+- Fraud indicators
+- Illegal acts by management
+
+If significant issues are identified, consider withdrawing from the engagement.
+
+### References and Standards
+
+**Authoritative Guidance:**
+- [AR-C Section 80](https://www.aicpa-cima.com/cpe-learning/publication/preparation-compilation-and-review-engagements-guide) - Compilation Engagements
+- [SSARS 21-26](https://www.aicpa-cima.com/resources/download/aicpa-statement-on-standards-for-accounting-and-review-services-no-25) - Current SSARS Standards
+- [AICPA Illustrative Compilation Reports](https://www.aicpa-cima.com/resources/download/illustrative-accountants-compilation-reports-on-financial-statements)
+
+**Related Resources:**
+- [DOL Reporting and Disclosure Guide](https://www.dol.gov/sites/dolgov/files/EBSA/about-ebsa/our-activities/resource-center/publications/reporting-and-disclosure-guide-for-employee-benefit-plans.pdf)
+- [AICPA Employee Benefit Plans Audit Guide](https://www.aicpa-cima.com/cpe-learning/publication/employee-benefit-plans-audit-and-accounting-guide-20)
 
 ---
 
@@ -562,4 +883,4 @@ After Form 5500 filing, distribute SAR to participants:
 
 ---
 
-*Last Updated: 2024*
+*Last Updated: December 2025*
